@@ -32,7 +32,8 @@ if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php'))
 */
 
 require __DIR__.'/../vendor/autoload.php';
-//test 13042022-2
+//test 13042022-2 go strong
+
 /*
 |--------------------------------------------------------------------------
 | Run The Application
