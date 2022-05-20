@@ -4,7 +4,7 @@ use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
-echo "uno3";
+echo "uno4";
 /*
 |--------------------------------------------------------------------------
 | Check If The Application Is Under Maintenance
